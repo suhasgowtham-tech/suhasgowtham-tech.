@@ -1,9 +1,10 @@
 # Suhas Gowtham
 
-**Systems Engineer | Python Backend & Infrastructure Automation**
-
+[![Windows Check](https://github.com/suhasgowtham-tech/hive/actions/workflows/windows-ci.yml/badge.svg)](https://github.com/suhasgowtham-tech/hive/actions)
 [![GitHub Presence](https://img.shields.io/badge/Status-Active%20Contributor-blue?style=flat-square&logo=github)](https://github.com/suhasgowtham-tech)
 [![Tech Stack](https://img.shields.io/badge/Specialization-Systems%20Resilience-333333?style=flat-square)](https://github.com/suhasgowtham-tech)
+
+**Systems Engineer | Python Backend & Infrastructure Automation**
 
 ---
 
