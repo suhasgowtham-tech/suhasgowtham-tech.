@@ -1,11 +1,9 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=SUHAS%20GOWTHAM&fontSize=70&animation=fadeIn&fontAlignY=35&desc=SYSTEMS%20ARCHITECT&descSize=30&descAlignY=60" alt="Suhas Neon Header" />
-</p>
-
-# 🌌 Systems Engineer | Infrastructure Resilience | Core Contributor @adenhq
+# 🌌 Senior Systems Engineer | Infrastructure Resilience | Core @adenhq
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=suhasgowtham-tech&theme=dracula&no-frame=true&column=7" alt="Suhas Trophies" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=suhasgowtham-tech&theme=dracula&no-frame=true&column=7" alt="Suhas Trophies" />
+  </a>
 </p>
 
 <p align="center">
@@ -13,13 +11,13 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=suhasgowtham-tech&bg_color=000000&color=ff0000&line=ff0000&point=ffffff&area=true&hide_border=true" width="100%" alt="Beast Mode Activity Wave" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=suhasgowtham-tech&bg_color=000000&color=ff0000&line=ff0000&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Wave" />
 </p>
 
 ---
 
 ### 🏛️ Engineering Philosophy
-> **"Resilience is not an afterthought; it is the core of sovereign intelligence."** I engineer indestructible state-management layers and autonomous AI infrastructure. My focus is on hardware-level parity, atomic operations, and OS-level resilience for the next generation of Multi-Agent Systems.
+> **"Resilience is engineered through precision, not chance."** I specialize in architecting high-availability state management and autonomous infrastructure. My focus is on cross-platform parity, atomic file operations, and hardening OS-level stability for Enterprise Multi-Agent Systems.
 
 ### 🛡️ Technologies & Armory
 <p align="left">
@@ -34,36 +32,20 @@
 ---
 
 ### 🚀 Core Pillars of Mastery
-* **OS Resilience:** Architecting atomic persistence layers using kernel-level locking (`msvcrt` / `fcntl`) to prevent data corruption in high-concurrency environments.
-* **Infrastructure Automation:** Optimized CI/CD throughput for Windows/POSIX ecosystems, specializing in `uv` acceleration and admin-gate security.
-* **Agentic Orchestration:** Engineering evolved frameworks for outcome-driven agent development within the **AdenHQ** ecosystem.
+* **Systems Resilience:** Implementing atomic persistence layers using kernel-level locking (`msvcrt` / `fcntl`) to ensure data integrity in high-concurrency environments.
+* **Automated Infrastructure:** Optimizing CI/CD pipelines for Windows/POSIX, specializing in `uv` package acceleration and secure administrative gateways.
+* **Orchestration Engineering:** Developing scalable, outcome-driven frameworks for the **AdenHQ** ecosystem.
 
 ---
 
-### 🛠️ The Technical Stack
-| Domain | Technologies |
-| :--- | :--- |
-| **Systems** | Python (Advanced), Rust (Learning), Bash, PowerShell Core |
-| **Infrastructure** | Docker, GitHub Actions (Advanced), UV, Infrastructure-as-Code |
-| **Persistence** | Atomic State Managers, POSIX/Windows Kernel Locking |
-| **AI** | Hive, CrewAI, AutoGen, Neural Orchestration |
-
----
-
-### 🐍 Contribution Neural Map (Beast Mode)
+### 🐍 Contribution Neural Map
 <p align="center">
-  <img src="https://raw.githubusercontent.com/suhasgowtham-tech/suhasgowtham-tech/output/github-beast-mode.svg?v=final_victory" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/suhasgowtham-tech/suhasgowtham-tech/output/github-beast-mode.svg" alt="Snake Animation" />
 </p>
 
 ---
 
-### 📈 System Activity
-* **Focus:** Hardening the `hive` framework for Enterprise-grade Windows deployment.
-* **Research:** Deep-diving into the **System Design Primer** to implement distributed consistency in AI agents.
-
----
-
-### 🌐 Global Traffic Radar (Live)
+### 🌐 Global Impact Radar
 <p align="center">
   <a href="https://clustrmaps.com/site/1c2f1" title="Visit tracker">
     <img src="https://www.clustrmaps.com/map_v2.png?d=bKZL1mHDUnf3guip6f3cxaY1f1JmWdtsyn31nRmvDM&cl=ffffff" alt="Visitor Map" />
@@ -73,6 +55,6 @@
 ---
 
 <p align="center">
-  <b>Let's build the indestructible future.</b><br>
+  <b>Engineering the future of resilient systems.</b><br>
   <a href="https://www.linkedin.com/feed/">LinkedIn</a> • <a href="mailto:suhas.gowtham08@gmail.com">Enterprise Contact</a>
 </p>
