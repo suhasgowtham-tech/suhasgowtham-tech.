@@ -1,27 +1,41 @@
-# Suhas Gowtham
+# 🌌 Systems Architect | Infrastructure Resilience | Core Contributor @adenhq
 
-[![Windows Check](https://github.com/suhasgowtham-tech/hive/actions/workflows/windows-ci.yml/badge.svg)](https://github.com/suhasgowtham-tech/hive/actions)
-[![GitHub Presence](https://img.shields.io/badge/Status-Active%20Contributor-blue?style=flat-square&logo=github)](https://github.com/suhasgowtham-tech)
-[![Tech Stack](https://img.shields.io/badge/Specialization-Systems%20Resilience-333333?style=flat-square)](https://github.com/suhasgowtham-tech)
-
-**Systems Engineer | Python Backend & Infrastructure Automation**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=suhasgowtham-tech&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="Suhas GitHub Stats" />
+</p>
 
 ---
 
-### 🛠 Technical Specialization
-- **Core Engineering:** Python (Backend), PowerShell (Windows Automation)
-- **Infrastructure:** CI/CD Workflows, GitHub Actions, UV-Acceleration
-- **Key Contributions:** Active contributor to **AdenHQ/Hive**, focusing on Windows onboarding optimization and repository integrity.
-
-### 📊 Performance Metrics
-![Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=suhasgowtham-tech&show_icons=true&theme=transparent&hide_border=true&title_color=0366d6&icon_color=0366d6&text_color=586069)
-
-![Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=suhasgowtham-tech&layout=compact&theme=transparent&hide_border=true&title_color=0366d6&text_color=586069)
+### 🏛️ Engineering Philosophy
+> **"Resilience is not an afterthought; it is the core of sovereign intelligence."** I engineer indestructible state-management layers and autonomous AI infrastructure. My focus is on hardware-level parity, atomic operations, and OS-level resilience for the next generation of Multi-Agent Systems.
 
 ---
 
-### 🔭 Current Focus
-- Tuning repository automation and finalizing Windows CI workflows.
+### 🚀 Core Pillars of Mastery
+* **OS Resilience:** Architecting atomic persistence layers using kernel-level locking (`msvcrt` / `fcntl`) to prevent data corruption in high-concurrency environments.
+* **Infrastructure Automation:** Optimized CI/CD throughput for Windows/POSIX ecosystems, specializing in `uv` acceleration and admin-gate security.
+* **Agentic Orchestration:** Engineering evolved frameworks for outcome-driven agent development within the **AdenHQ** ecosystem.
 
-### 📬 Connect
-- **Project Focus:** High-performance automation and enterprise-grade system hardening.
+---
+
+### 🛠️ The Technical Stack (Grandmaster Tier)
+| Domain | Technologies |
+| :--- | :--- |
+| **Systems** | Python (Advanced), Rust (Learning), Bash, PowerShell Core |
+| **Infrastructure** | Docker, GitHub Actions (Advanced), UV, Infrastructure-as-Code |
+| **Persistence** | Atomic State Managers, POSIX/Windows Kernel Locking |
+| **AI** | Hive, CrewAI, AutoGen, Neural Orchestration |
+
+---
+
+### 📈 System Activity
+
+* **Focus:** Hardening the `hive` framework for Enterprise-grade Windows deployment.
+* **Research:** Deep-diving into the **System Design Primer** to implement distributed consistency in AI agents.
+
+---
+
+<p align="center">
+  <b>Let's build the indestructible future.</b><br>
+  <a href="https://www.linkedin.com/feed/">LinkedIn</a> • <a href="mailto:suhas.gowtham08@gmail.com">Enterprise Contact</a>
+</p>
