@@ -3,7 +3,7 @@ name: generate-beast-snake-animation
 on:
   schedule:
     - cron: "0 0 * * *" # Every midnight
-  workflow_dispatch:
+  workflow_dispatch: # This line is what creates the "Run workflow" button
   push:
     branches:
       - main
