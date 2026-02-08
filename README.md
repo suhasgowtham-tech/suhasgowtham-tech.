@@ -38,6 +38,13 @@
 
 ---
 
+### 🐍 Contribution Neural Map (Beast Mode)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/suhasgowtham-tech/suhasgowtham-tech/output/github-beast-mode.svg" alt="Snake Animation" />
+</p>
+
+---
+
 ### 📈 System Activity
 * **Focus:** Hardening the `hive` framework for Enterprise-grade Windows deployment.
 * **Research:** Deep-diving into the **System Design Primer** to implement distributed consistency in AI agents.
