@@ -9,6 +9,16 @@
 ### 🏛️ Engineering Philosophy
 > **"Resilience is not an afterthought; it is the core of sovereign intelligence."** I engineer indestructible state-management layers and autonomous AI infrastructure. My focus is on hardware-level parity, atomic operations, and OS-level resilience for the next generation of Multi-Agent Systems.
 
+### 🛡️ Technologies & Armory
+<p align="left">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+</p>
+
 ---
 
 ### 🚀 Core Pillars of Mastery
@@ -18,7 +28,7 @@
 
 ---
 
-### 🛠️ The Technical Stack (Grandmaster Tier)
+### 🛠️ The Technical Stack
 | Domain | Technologies |
 | :--- | :--- |
 | **Systems** | Python (Advanced), Rust (Learning), Bash, PowerShell Core |
@@ -29,7 +39,6 @@
 ---
 
 ### 📈 System Activity
-
 * **Focus:** Hardening the `hive` framework for Enterprise-grade Windows deployment.
 * **Research:** Deep-diving into the **System Design Primer** to implement distributed consistency in AI agents.
 
