@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=SUHAS%20GOWTHAM&fontSize=70&animation=fadeIn&fontAlignY=35&desc=SYSTEMS%20ARCHITECT&descSize=30&descAlignY=60" alt="Suhas Neon Header" />
 </p>
 
-# 🌌 Systems Architect | Infrastructure Resilience | Core Contributor @adenhq
+# 🌌 Systems Engineer | Infrastructure Resilience | Core Contributor @adenhq
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=suhasgowtham-tech&theme=dracula&no-frame=true&column=7" alt="Suhas Trophies" />
